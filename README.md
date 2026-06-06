@@ -6,9 +6,9 @@ Analisis yang dilakukan dalam repository ini mencakup empat pendekatan, yaitu ag
 
 ## Isi Repository
 
-* **Dataset** — File CSV data call report (`Kelas_G_Fixed_Call_Report.csv`)
-* **Source Code** — Notebook analisis data (`Analisis_Fixed_Call_Report_KelasG_Kelompok1.ipynb`)
-* **Hasil Visualisasi Grafik** — (`Infografis_KelasG_Kelompok1.jpeg`)
+* **Dataset** — File CSV data call report (`Kelas G_Fixed Call Report.csv`)
+* **Source Code** — Notebook analisis data (`Analisis_Fixed Call Report_Kelas G_Kelompok1.ipynb`)
+* **Hasil Visualisasi Grafik** — (`Infografis_Kelas G_Kelompok1.jpeg`)
 
 ## Kategori Analisis
 
