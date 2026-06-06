@@ -34,3 +34,13 @@ matplotlib
 seaborn
 numpy
 ```
+
+## Pembagian Tugas
+
+| No | Nama | NIM | Tugas |
+|----|------|-----|-------|
+| 1 | Callista Aviana Randabunga | 21060125140173 | Membantu pengodean kategori A dan analisis kategori A |
+| 2 | Ahmad Hafizuddin Saragih | 21060125140162 | Membantu pengodean kategori B dan analisis kategori B |
+| 3 | Kahfi Hanzah | 21060125140202 | Membantu pengodean kategori C dan analisis kategori C |
+| 4 | Muhammad Fakhri Zhafran | 21060125140205 | Membuat pengodean gabungan seluruh kategori dan analisis kategori D |
+| 5 | Adhyaksa Setia Negara | 21060125140182 | Pendesain utama infografis dari Post-Test |
